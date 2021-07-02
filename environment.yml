@@ -1,0 +1,9 @@
+name: neocam-breath
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.7.0
+  - pip==21.0
+  - pip:
+    - -e .[dev]
