@@ -21,7 +21,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.5, <=3.8.2",
+    python_requires=">=3.9",
     setup_requires=["setuptools_scm"],
     install_requires=[
         "argcomplete==1.12.1",
