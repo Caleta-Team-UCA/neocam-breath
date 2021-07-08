@@ -31,7 +31,7 @@ setuptools.setup(
         "certifi==2020.12.5",
         "chardet==3.0.4",
         "cycler==0.10.0",
-        "depthai==2.2.1.0",
+        "depthai==2.5.0.0",
         "ffmpeg==1.4",
         "idna==2.10",
         "jmespath==0.10.0",
